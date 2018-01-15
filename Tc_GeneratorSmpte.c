@@ -1,9 +1,9 @@
 //****************************************************************************
-//Programmer:	Rolando Rivero (AVR freaks username rrivero)
+//Programmer:	kwerder
 //File name:	Tc_GeneratorSmpte.c
-//Version:		1.0.0
-//Date:			9/12/2013
-//Copyright (c) 2013 Masterclock, Inc.
+//Version:	1.0.0
+//Date:		9/12/2013 - 1/15/2018
+//Copyright (c) 2013-2018 Masterclock, Inc.
 //Description:
 //Mods:
 
